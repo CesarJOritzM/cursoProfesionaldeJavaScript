@@ -1,0 +1,23 @@
+{
+  "name": "CursoJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarJOritzM/cursoProfesionaldeJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarJOritzM/cursoProfesionaldeJavaScript/issues"
+  },
+  "homepage": "https://github.com/CesarJOritzM/cursoProfesionaldeJavaScript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
